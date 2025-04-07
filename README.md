@@ -9,16 +9,16 @@ A simple Arduino-based project that uses **Fingerprint**, **RFID**, and an **SD 
 - SD Card Module  
 - Relay Module / Servo  
 
-## ⚙️ Features
+## Features
 - Fingerprint and RFID login  
 - Access logging to SD card  
 - Lock control on successful auth  
 
-#📂 Files
+<!-- #📂 Files
 #- `main.ino` – main logic  
 #- `fingerprint.ino` – fingerprint module  
 #- `rfid.ino` – RFID handling  
 #- `sd_logger.ino` – logging
-
+-->
 ## 📌 License
 GNU General Public License v3.0
