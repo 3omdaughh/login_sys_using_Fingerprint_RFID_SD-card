@@ -20,5 +20,5 @@ A simple Arduino-based project that uses **Fingerprint**, **RFID**, and an **SD 
 #- `rfid.ino` – RFID handling  
 #- `sd_logger.ino` – logging
 -->
-## 📌 License
+## License
 GNU General Public License v3.0
